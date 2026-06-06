@@ -1,6 +1,6 @@
 public class LibraryManager
     {
-        private static LibraryManager instance;
+        private static LibraryManager? instance;
         private readonly Dictionary<string, Book> catalog;
         private readonly Dictionary<string, Member> members;
         private readonly int MAX_BOOKS_PER_MEMBER = 5;
@@ -13,10 +13,7 @@ public class LibraryManager
 
         public static LibraryManager GetInstance()
         {
-            if (instance == null)
-            {
-                instance = new LibraryManager();
-            }
+            instance ??= new LibraryManager();
             return instance;
         }
 
@@ -32,8 +29,8 @@ public class LibraryManager
 
         public Book GetBook(string isbn)
         {
-            catalog.TryGetValue(isbn, out Book book);
-            return book;
+        _ = catalog.TryGetValue(isbn, out Book book);
+        return book;
         }
 
         public void RegisterMember(Member member)
