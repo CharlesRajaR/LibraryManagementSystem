@@ -1,0 +1,14 @@
+D:\dot_net_files\lld\libraryManagementSystem\bin\Debug\net10.0\libraryManagementSystem.exe
+D:\dot_net_files\lld\libraryManagementSystem\bin\Debug\net10.0\libraryManagementSystem.deps.json
+D:\dot_net_files\lld\libraryManagementSystem\bin\Debug\net10.0\libraryManagementSystem.runtimeconfig.json
+D:\dot_net_files\lld\libraryManagementSystem\bin\Debug\net10.0\libraryManagementSystem.dll
+D:\dot_net_files\lld\libraryManagementSystem\bin\Debug\net10.0\libraryManagementSystem.pdb
+D:\dot_net_files\lld\libraryManagementSystem\obj\Debug\net10.0\libraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\dot_net_files\lld\libraryManagementSystem\obj\Debug\net10.0\libraryManagementSystem.AssemblyInfoInputs.cache
+D:\dot_net_files\lld\libraryManagementSystem\obj\Debug\net10.0\libraryManagementSystem.AssemblyInfo.cs
+D:\dot_net_files\lld\libraryManagementSystem\obj\Debug\net10.0\libraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\dot_net_files\lld\libraryManagementSystem\obj\Debug\net10.0\libraryManagementSystem.dll
+D:\dot_net_files\lld\libraryManagementSystem\obj\Debug\net10.0\refint\libraryManagementSystem.dll
+D:\dot_net_files\lld\libraryManagementSystem\obj\Debug\net10.0\libraryManagementSystem.pdb
+D:\dot_net_files\lld\libraryManagementSystem\obj\Debug\net10.0\libraryManagementSystem.genruntimeconfig.cache
+D:\dot_net_files\lld\libraryManagementSystem\obj\Debug\net10.0\ref\libraryManagementSystem.dll
