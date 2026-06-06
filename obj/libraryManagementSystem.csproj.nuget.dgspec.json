@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dot_net_files\\lld\\libraryManagementSystem\\libraryManagementSystem.csproj": {}
+    "/workspaces/LibraryManagementSystem/libraryManagementSystem.csproj": {}
   },
   "projects": {
-    "D:\\dot_net_files\\lld\\libraryManagementSystem\\libraryManagementSystem.csproj": {
+    "/workspaces/LibraryManagementSystem/libraryManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dot_net_files\\lld\\libraryManagementSystem\\libraryManagementSystem.csproj",
+        "projectUniqueName": "/workspaces/LibraryManagementSystem/libraryManagementSystem.csproj",
         "projectName": "libraryManagementSystem",
-        "projectPath": "D:\\dot_net_files\\lld\\libraryManagementSystem\\libraryManagementSystem.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\dot_net_files\\lld\\libraryManagementSystem\\obj\\",
+        "projectPath": "/workspaces/LibraryManagementSystem/libraryManagementSystem.csproj",
+        "packagesPath": "/home/codespace/.nuget/packages/",
+        "outputPath": "/workspaces/LibraryManagementSystem/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/codespace/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -39,11 +38,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -61,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.200/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
